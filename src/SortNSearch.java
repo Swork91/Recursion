@@ -9,7 +9,7 @@ public class SortNSearch {
 						77.26,16.69,11.64,52.05,9.02,93.91,56.18,17.79,97.93,81.25};
 		RecursiveSelectionSort.sort(nums);
 		
-		//sorted list
+		//print sorted list
 		for (int i=0; i<nums.length; i++) {
 			System.out.print(nums[i]+" ");
 		}
